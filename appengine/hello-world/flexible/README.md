@@ -5,6 +5,15 @@ This is the sample application for the
 tutorial found in the [Google App Engine Node.js flexible environment][appengine]
 documentation.
 
+gounna:
+관련 quick Lab
+app.js에 hello world를 app.yaml 에 설정파일을 넣어서 gcloud 커맨드로 배포하는 시나리오
+gcloud app start
+gcloud app browse
+
+https://qwiklabs.com/focuses/657?parent=catalog
+
+
 * [Setup](#setup)
 * [Running locally](#running-locally)
 * [Deploying to App Engine](#deploying-to-app-engine)
