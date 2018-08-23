@@ -18,6 +18,7 @@
 // [START gae_flex_quickstart]
 const express = require('express');
 
+// 서버를 생성하는 부분
 const app = express();
 
 app.get('/', (req, res) => {
