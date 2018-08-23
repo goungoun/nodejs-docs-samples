@@ -1,5 +1,6 @@
 # 어플리케이션 배포와 설정에 필요한 것들이  app.yaml에 들어있다.
 # App Engine으로 배포할 때 gcloud app deploy 사용
+# App Engine으로 배포한 결과 확인 gcloud app browse
 
 # Copyright 2017, Google, Inc.
 # Licensed under the Apache License, Version 2.0 (the "License");
